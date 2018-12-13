@@ -183,14 +183,14 @@ footer a {
     }
 }
 
-@media screen and (min-width: 611px) {
+@media screen and (min-width: 695px) {
     .hero {
         order: 0;
         width: 100%;
     }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 750px) {
     .hero {
         width: 40%;
     }
